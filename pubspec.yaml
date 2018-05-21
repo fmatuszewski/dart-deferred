@@ -22,8 +22,8 @@ transformers:
     entry_points:
       - web/main.dart
       - lib/src/todo_list/todo_list_component.dart
-      - lib/src/add/adds/hero_job_ad.component.dart
-      - lib/src/add/adds/hero_profile_ad.component.dart
+      - lib/src/ad/adds/hero_job.dart
+      - lib/src/ad/adds/hero_profile.dart
 
       - test/**_test.dart
 - test/pub_serve:
